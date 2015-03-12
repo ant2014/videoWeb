@@ -1,5 +1,7 @@
 # videoWeb
 
+> 该程序源自[http://imooc.com/learn/75](http://imooc.com/learn/75)的一个视频教程, 由于该视频没有附上源码, 因此我把自己的代码放上来以供初学者参考一下。
+
 > 该程序需要依赖[node](http://nodejs.org/)、[mongodb](http://www.mongodb.org/)、[bower](http://bower.io/) 环境支持.
 
 ### 运行程序
